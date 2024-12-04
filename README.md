@@ -65,9 +65,3 @@ This project focuses on building a machine learning model to detect fraudulent f
 
 ---
 
-## **How to Run the Project**
-
-1. **Clone the Repository**
-   ```bash
-   git clone <repository-link>
-   cd Fraud_Detection_DS
